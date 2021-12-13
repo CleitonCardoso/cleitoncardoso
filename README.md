@@ -1,5 +1,4 @@
-### - Well well well, you reach to my profile finally. 
-### - I was waiting for you...
+### - Well well well, you reached at my profile finally, I was waiting for you...
 ### - My name is Cleiton and I'll be driving you through this place.
 
 <br>

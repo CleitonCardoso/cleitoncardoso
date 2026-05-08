@@ -64,13 +64,33 @@ Currently working on fintech infrastructure and AI transformation initiatives.
 - Payment Integrations
 - Regulatory Compliance
 
-## AI & Automation
+---  
+
+# AI Engineering & Developer Productivity
+
+I actively work with modern AI engineering workflows and developer tooling, integrating AI into software architecture, automation and engineering productivity.
+
+## AI Tools & Platforms
+- OpenAI API
+- Codex
+- Claude Code
 - Devin AI
-- Claude
 - Gemini
-- AI-assisted development
+- Cursor
+- AI-assisted development workflows
+- Prompt engineering
 - Workflow automation
-- MCP experimentation
+- AI agent experimentation
+- MCP server experimentation
+
+## Areas of Interest
+- AI-native software engineering
+- Autonomous coding agents
+- Developer productivity systems
+- AI orchestration
+- Retrieval-Augmented Generation (RAG)
+- LLM integrations
+- AI-enhanced architecture workflows
 
 ---
 
